@@ -14,7 +14,7 @@
 ```php
 define("KOD_MONGODB_HOST", "dds-2zef5960fed0f8f41813-pub.mongodb.rds.aliyuncs.com:3717,dds-2zef5960fed0f8f42943-pub.mongodb.rds.aliyuncs.com:3717/admin?replicaSet=mgset-5320935");
 define("KOD_MONGODB_USER", "root");
-define("KOD_MONGODB_PASSWORD", "WwEDYb3!TrvUqWUE");
+define("KOD_MONGODB_PASSWORD", "******");
 ```
 
 
