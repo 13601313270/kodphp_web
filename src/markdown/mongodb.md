@@ -1,5 +1,5 @@
-# kod\_db\_mysqlTable
-这是一个针对单表的操作类，封装了很多针对单表的操作，让你摆脱书写sql语句。同时通过配置表之间的联系，如join和外键，你可以方便的快速扩展数据，而不用自己拼装。
+# kod\_db\_mongoDB
+这是一个针对集合的操作类，封装了很多针对单表的操作。
 
 ## 初始化
 首先你需要在根目录的 include.php 设置三个全局变量：
@@ -14,7 +14,7 @@
 ```php
 define("KOD_MONGODB_HOST", "dds-2zef5960fed0f8f41813-pub.mongodb.rds.aliyuncs.com:3717,dds-2zef5960fed0f8f42943-pub.mongodb.rds.aliyuncs.com:3717/admin?replicaSet=mgset-5320935");
 define("KOD_MONGODB_USER", "root");
-define("KOD_MONGODB_PASSWORD", "WwEDYb3!TrvUqWUE");
+define("KOD_MONGODB_PASSWORD", "******");
 ```
 
 
